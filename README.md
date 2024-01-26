@@ -3,7 +3,7 @@
 
 ###  Coursera Cloud Computing Concepts, Part 1 
 ### MAP1_assignment
- :tw-2705: Passed  •  90/90 points
+### Passed  •  90/90 points
 <div align="center">
 <img align="center" width="500" src="images/map1.png">
   <div>
