@@ -1,21 +1,21 @@
 
 
 #  Coursera Cloud Computing Concepts, Part 1 
-```
 # MAP1_assignment
-```
-
-<img align="center" width="500" src="images/map1.png">
+# Passed  •  90/90 points
+<div align="center">
+<img align="center" width="400" src="images/map1.png">
+  <div>
 <br>
 <br>
 
 #  Coursera Cloud Computing Concepts, Part 2 
-```bat
-# MAP1_assignment
-```
+# MAP2_assignment
+# Passed  •  90/90 points
 <br>
-<img align="center" width="500" src="images/map2.png">
-
+<div align="center">
+<img align="center" width="400" src="images/map2.png">
+<div>
 <br>
 <br>
 
