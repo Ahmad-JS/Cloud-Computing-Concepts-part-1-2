@@ -8,8 +8,8 @@
 <img align="center" width="500" src="images/map1.png">
   <div>
 <br>
+#
 <br>
-
 #  Coursera Cloud Computing Concepts, Part 2 
 # MAP2_assignment
 # Passed  •  90/90 points
@@ -19,13 +19,14 @@
 <div>
 <br>
 <br>
-
+#
 #### Submit Your Program for Grading:
-
+#
 ```bat
 
 $ Python submit.py
 
 ```
 <br>
+#
 <br>
