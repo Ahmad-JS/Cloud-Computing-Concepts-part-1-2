@@ -2,19 +2,19 @@
 
 #  Coursera Cloud Computing Concepts, Part 1 
 ```
-MAP1_assignment
+# MAP1_assignment
 ```
 
-<img align="center" width="400" src="images/map1.png">
+<img align="center" width="500" src="images/map1.png">
 <br>
 <br>
 
-#  Coursera Cloud Computing Concepts, Part 2 > MAP2
+#  Coursera Cloud Computing Concepts, Part 2 
 ```bat
-MAP1_assignment
+# MAP1_assignment
 ```
 <br>
-<img src="images/map2.png">
+<img align="center" width="500" src="images/map2.png">
 
 <br>
 <br>
