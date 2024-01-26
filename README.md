@@ -1,10 +1,11 @@
 
+<div align="center"><div>
 
 #  Coursera Cloud Computing Concepts, Part 1 
 # MAP1_assignment
 # Passed  •  90/90 points
 <div align="center">
-<img align="center" width="400" src="images/map1.png">
+<img align="center" width="500" src="images/map1.png">
   <div>
 <br>
 <br>
@@ -14,7 +15,7 @@
 # Passed  •  90/90 points
 <br>
 <div align="center">
-<img align="center" width="400" src="images/map2.png">
+<img align="center" width="500" src="images/map2.png">
 <div>
 <br>
 <br>
