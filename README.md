@@ -20,8 +20,9 @@
 <br>
 <br>
 #
-#### Submit Your Program for Grading:
 #
+# Submit Your Program for Grading:
+
 ```bat
 
 $ Python submit.py
