@@ -1,11 +1,11 @@
 
 
-#  Coursera Cloud Computing Concepts, Part 1 > MAP1
-```bat
+#  Coursera Cloud Computing Concepts, Part 1 
+```
 MAP1_assignment
 ```
 
-<img src="images/map1.png">
+<img align="center" width="400" src="images/map1.png">
 <br>
 <br>
 
