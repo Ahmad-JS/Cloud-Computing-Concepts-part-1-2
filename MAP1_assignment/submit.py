@@ -29,18 +29,16 @@ def submit():
     return
   submissions = [source(i) for i in range(3)]
   submitSolution(login, password, submissions)
+
 def loginPrompt():
-  """Prompt the user for login credentials. Returns a tuple (login, password)."""
   login = input('Login (Email): ')
   password = input('Password (Token): ')
   return login, password
 
 def submit_url():
-  """Returns the submission url."""
   return "https://www.coursera.org/api/onDemandProgrammingScriptSubmissions.v1"
 
 def submitSolution(email_address,password, submissions):
-  """Submits a solution to the server. Returns (result, string)."""
   values = {
       "assignmentKey": "Mj8OkgI-EeaTLQonT2FRpw",  \
       "submitterEmail": email_address, \
@@ -72,3 +70,6 @@ print ("##################################")
 print ("######### Go To Coursera #########") 
 print ("####### Total Grade 90/90 ########") 
 print ("##################################") 
+
+
+
